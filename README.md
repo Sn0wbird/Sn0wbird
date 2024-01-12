@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Helen, aka Sn0wbird :dove:, and I'm part of the Deal Desk Function at GitHub!
+I'm Helen, aka Sn0wbird :dove:, and I'm part of the Deal Desk team at GitHub!
 
 I’m currently being onboarded, but you can reach out to me directly, or raise an issue on the Deal Desk repository 👇 https://github.com/github/Deal-Desk/issues
 
